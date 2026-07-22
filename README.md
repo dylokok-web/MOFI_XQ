@@ -4,12 +4,13 @@
 
 **XQ 全球贏家（嘉實資訊）自製 XScript 指標收藏**
 
-<sub>依五大觀測面分類 · 每支附圖文說明頁 · 一鍵匯入 · 綁定 `@MOFI` 解鎖</sub>
+<sub>依觀測面分類 · 每支附圖文說明頁 · 一鍵匯入 · 綁定 `@MOFI` 解鎖</sub>
 
 <br>
 
 ![腳本](https://img.shields.io/badge/腳本-12_支-3DDC84?style=flat-square)
-![分類](https://img.shields.io/badge/分類-5_大觀測面-4C8BF5?style=flat-square)
+![版面](https://img.shields.io/badge/看盤版面-1_套-2E9E83?style=flat-square)
+![分類](https://img.shields.io/badge/分類-依觀測面-4C8BF5?style=flat-square)
 ![平台](https://img.shields.io/badge/平台-XQ_全球贏家-00A1E0?style=flat-square)
 ![市場](https://img.shields.io/badge/市場-台股_×_美股-9333EA?style=flat-square)
 ![優惠碼](https://img.shields.io/badge/解鎖-綁定_@MOFI-FF6B6B?style=flat-square)
@@ -26,15 +27,33 @@
 
 <img src="XQ%20Code.png" width="640" alt="輸入優惠碼 @MOFI，獲得 XQ 點數 100 點折抵">
 
-📣 **利益揭露**：綁定 `@MOFI` 為 XQ 平台官方推薦活動；老墨將因您綁定取得平台回饋（屬商業合作關係）。
-
 <br>
 
 [![下載一鍵匯入工具](https://img.shields.io/badge/🚀_下載_一鍵匯入工具-2563EB?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/releases/latest/download/XQ-Script-Importer.exe)
 
 </div>
 
-> ⚠️ **免責聲明**：本庫所有腳本為**中性技術分析輔助工具**，僅供技術研究與教學，**不構成任何投資建議、不保證獲利**。老墨**非**經主管機關核准之證券投資顧問事業。程式邏輯或資料可能有誤差，據此操作之盈虧由使用者自行負責。
+---
+
+<div align="center">
+
+## 🖥️ 懶人首選：老墨的看盤介面 · ZERO SYSTEM PRO MAX
+
+**不想一支一支裝？下載這一個檔，整套看盤環境直接長出來。**
+
+<sub>六個頁籤一次到位：商品盤勢／技術分析／籌碼分析／基本面分析／融資分析／大戶散戶<br>`.daox` 版面檔**自帶所含腳本**，匯入即用，不必逐支下載編譯</sub>
+
+<br>
+
+<a href="00.%20%E7%9C%8B%E7%9B%A4%E9%A0%81%E9%9D%A2/ZERO%20SYSTEM%20PRO%20MAX/"><img src="00.%20%E7%9C%8B%E7%9B%A4%E9%A0%81%E9%9D%A2/ZERO%20SYSTEM%20PRO%20MAX/assets/hero.png" width="880" alt="ZERO SYSTEM PRO MAX — 老墨的看盤介面"></a>
+
+<br><br>
+
+[![看說明頁](https://img.shields.io/badge/📄_看完整說明頁-2563EB?style=for-the-badge)](00.%20%E7%9C%8B%E7%9B%A4%E9%A0%81%E9%9D%A2/ZERO%20SYSTEM%20PRO%20MAX/)
+&nbsp;
+[![下載版面](https://img.shields.io/badge/⬇️_直接下載_(.daox)-3DDC84?style=for-the-badge)](https://github.com/mophyfei/MOFI_XQ/raw/main/00.%20%E7%9C%8B%E7%9B%A4%E9%A0%81%E9%9D%A2/ZERO%20SYSTEM%20PRO%20MAX/ZERO%20SYSTEM%20PRO%20MAX%20%28%E8%80%81%E5%A2%A8%E5%84%AA%E6%83%A0%E7%A2%BC%EF%BC%9A%40MOFI%29.daox)
+
+</div>
 
 ---
 
@@ -44,6 +63,7 @@
 
 | 分類 | 腳本 | 一句話 | 說明頁 |
 |:---:|------|------|:---:|
+| 🖥️<br>看盤頁面 | 🆕 **老墨的看盤介面**<br><sub>ZERO SYSTEM PRO MAX · 六頁籤一站式</sub> | 匯入一個檔，整套看盤環境直接長出來 | [📄](00.%20%E7%9C%8B%E7%9B%A4%E9%A0%81%E9%9D%A2/ZERO%20SYSTEM%20PRO%20MAX/) |<!-- 🆕 added:2026-07-21 -->
 | 🌍<br>總體環境 | **產業輪動雷達 RRG**<br><sub>台股族群 × 細產業</sub> | 一眼看出資金正輪動到哪個產業 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/RRG%20%E7%94%A2%E6%A5%AD%E8%BC%AA%E5%8B%95%E9%81%B8%E8%82%A1%E7%AD%96%E7%95%A5/) |
 | 🌍<br>總體環境 | **風險偏好性指標**<br><sub>台股 × 美股</sub> | 市場資金在衝還是在縮 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E6%80%A7/) |
 | 🌍<br>總體環境 | **大盤融資維持率** | 檢查全市場散戶熱度 | [📄](01.%20%E7%B8%BD%E9%AB%94%E7%92%B0%E5%A2%83%E8%A7%80%E6%B8%AC/%E5%A4%A7%E7%9B%A4%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87/) |
@@ -115,8 +135,6 @@
 </tr>
 </table>
 
-<sub>📌 以上皆為功能示範畫面，僅展示指標顯示，非個股推介或評價。</sub>
-
 ---
 
 ## 🚀 如何安裝
@@ -169,6 +187,30 @@
 ## 📜 授權與聯絡
 
 本專案**保留所有權利（All Rights Reserved）**；腳本僅供綁定 `@MOFI` 之使用者個人學習使用，**未經授權禁止轉售、散布或商業使用**。
+
+---
+
+## ⚠️ 免責聲明與利益揭露
+
+**📣 利益揭露**
+綁定優惠碼 `@MOFI` 為 XQ 平台官方推薦活動；老墨將因您綁定取得平台回饋，屬商業合作關係。
+
+**工具性質**
+本庫所有腳本皆為中性技術分析輔助工具，功能為將公開市場資料視覺化呈現。所有數值均為對公開資料之客觀統計，不構成任何買賣建議、不對後續走勢作出研判、不保證獲利。
+
+**非投顧事業**
+老墨非經主管機關核准之證券投資顧問事業。本頁面及各腳本說明頁之全部內容，不構成投資推介、分析意見或任何形式之投資顧問服務。
+
+**關於本頁截圖**
+本頁及各腳本頁所有畫面截圖中出現之商品代號、名稱、報價與數值，均僅為功能之示範，非推介標的，不代表老墨持有該等商品或建議買賣。
+
+**歷史數據之限制**
+所有統計數值均為對過去資料之計算，歷史表現不代表未來結果。程式邏輯與資料來源均可能存在誤差。
+
+**風險自負**
+本庫所有腳本僅供技術研究與教學用途。任何投資決策應由使用者依自身判斷為之，所生盈虧由使用者自行承擔。
+
+---
 
 <div align="center">
 
