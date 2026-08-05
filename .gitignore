@@ -24,3 +24,6 @@ _private/
 # Claude 本地工具與專案工作指引（不公開）
 .claude/
 CLAUDE.md
+
+# TradingView Pine Script 移植版（本機自用，永不公開散布）
+99. TRADINGVIEW/
